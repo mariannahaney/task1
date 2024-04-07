@@ -1,0 +1,28 @@
+body{
+	font-family: 'Arial';
+	background-color: lemonchiffon;
+}
+h1, h2 {
+	font-size: 30px;
+}
+p{
+	color:darkblue;
+}
+.ul{
+	font-style: italic;
+	color:darkolivegreen;
+	background-color: lightskyblue;
+}
+.ol{
+	font-style: italic;
+	color:darkorange;
+	background-color: lawngreen;
+}
+header, footer {
+	text-align: center;
+}
+section{
+	border: double;
+	border-color: red;
+}
+
