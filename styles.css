@@ -25,4 +25,12 @@ section{
 	border: double;
 	border-color: red;
 }
+.image{
+	margin: 20px;
+	width: 550px;
+	height: 400px;
+	padding: 13px;
+	border-color: lightskyblue;
+	border: double lightskyblue 2px;
+}
 
